@@ -5,7 +5,7 @@ An EVM compatible blockchain explorer project to learn about ethereum, solidity,
 # Installation
 
 ```
-git clone git@github.com:ragueneau/etherscan.git
+git clone https://github.com/enzifiri/evm-explorer.git
 ```
 ```
 cd etherscan
